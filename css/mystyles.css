@@ -1,4 +1,44 @@
 
 .diff-bg{
-    background-color: beige !important;
+    background-color: rgb(149, 149, 128) !important;
+}
+
+H1{
+    text-align:center;
+}
+#body {
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, 
+    sans-serif; 
+    font-size: 24px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 700; 
+    line-height: 26.4px;
+    background-color:rgb(129, 129, 117)
+    
+}
+.navbar {
+    background-color:black;
+    text-decoration:none;
+    text-align:center;
+}
+
+.nav{
+    color:white;
+    text-decoration:none;
+}
+
+.nav:hover{
+    color:blanchedalmond;
+}
+
+#picture {
+    width:50%;
+}
+
+h3 {
+    color:white;
+}
+.list{
+    color:white;
 }
